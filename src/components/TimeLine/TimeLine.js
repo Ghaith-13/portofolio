@@ -36,7 +36,7 @@ const Timeline = () => {
         - Demonstrated ability to design and implement complex user interfaces .
         <br />
         - Experienced in working with Agile methodologies and delivering
-        projects on time.
+        projects on time .
         <br />- Strong problem-solving skills and a commitment to writing clean,
         maintainable code.
       </SectionText>
