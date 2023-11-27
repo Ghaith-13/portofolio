@@ -59,5 +59,10 @@ export const projects = [
 
 export const TimeLineData = [
   // { year: 2022, text: 'start new job as Flutter Developer at ICT Incubator' },
-  { year: '1 / 9 / 2023', text: 'Started working as Flutter Developer' },
+  {
+    year: '1 / 9 / 2023',
+    Location: 'Riyadh, Saudi Arabia',
+    text: 'Started working as Flutter Developer',
+    Type: ' Remotly / Part Time',
+  },
 ];

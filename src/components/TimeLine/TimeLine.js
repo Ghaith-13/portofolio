@@ -53,7 +53,9 @@ const Timeline = () => {
                 onClick={(e) => handleClick(e, index)}
               >
                 <CarouselItemTitle>{item.year}</CarouselItemTitle>
+                <CarouselItemText>{item.Location}</CarouselItemText>
                 <CarouselItemText>{item.text}</CarouselItemText>
+                <CarouselItemText>{item.Type}</CarouselItemText>
               </CarouselItem>
             </CarouselMobileScrollNode>
           ))}
